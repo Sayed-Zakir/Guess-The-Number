@@ -1,2 +1,2 @@
 # Guess-The-Number
-A python game to guess the numbers implemented with the concept of functions.
+A python game implemented with the concept of functions to guess the number. 
